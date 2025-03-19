@@ -5,12 +5,4 @@ console.log(a)
 a="harry"
 console.log(a) 
 
-//Arithmetic operator
-/*let a= 15;
-let b = 5;
-console.log("a+b =",a+b)
-console.log("a-b =",a-b)
-console.log("a*b =",a*b)                   
-console.log("a/b =",a/b)
-console.log("a%b =",a%b)
-console.log("a**b =",a**b)*/
+
